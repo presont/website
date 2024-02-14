@@ -1,0 +1,41 @@
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.buttons {
+    text-align: center;
+    padding: 100px;
+  }
+
+.yes1 {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.yes2 {
+    padding: 25px;
+    border-radius: 35px;
+}
+
+.yes3 {
+    padding: 35px;
+    border-radius: 45px;
+}
+
+.yes4 { 
+    padding: 40px;
+    border-radius: 50px;
+}
+
+.yes4:hover {
+    opacity: 0.7;
+}
+
